@@ -16,7 +16,7 @@
 
 ## 使用前准备
 
-1. 先购买 API Key 套餐，拿到可用 `FLASH_SHARE_API_KEY`
+1. 先访问 https://share.skyxhome.com/ 购买 API Key 套餐，拿到可用 `FLASH_SHARE_API_KEY`
 2. 确保运行环境为 Node.js 18+
 
 ---
