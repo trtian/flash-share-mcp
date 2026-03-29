@@ -1,0 +1,16 @@
+{
+  "name": "flash-share-mcp",
+  "version": "1.0.5",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "flash-share-mcp": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test:upload": "node test-upload.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.4"
+  }
+}
